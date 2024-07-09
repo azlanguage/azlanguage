@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azlanguage
 I need a checking for my code
-It's my first homme page code whith html
+It's my first homme page code with html
 <!---
 <!DOCTYPE html>
 <html>
